@@ -2,3 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+.bg-custom-gray {
+    background-color: rgba(236, 236, 237, 0.9);
+  }
+
